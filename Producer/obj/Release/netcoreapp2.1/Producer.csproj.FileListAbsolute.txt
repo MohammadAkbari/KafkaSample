@@ -1,0 +1,11 @@
+C:\Users\m.akbari\Source\Repos\WebApplication15\Producer\bin\Release\netcoreapp2.1\Producer.deps.json
+C:\Users\m.akbari\Source\Repos\WebApplication15\Producer\bin\Release\netcoreapp2.1\Producer.runtimeconfig.json
+C:\Users\m.akbari\Source\Repos\WebApplication15\Producer\bin\Release\netcoreapp2.1\Producer.runtimeconfig.dev.json
+C:\Users\m.akbari\Source\Repos\WebApplication15\Producer\bin\Release\netcoreapp2.1\Producer.dll
+C:\Users\m.akbari\Source\Repos\WebApplication15\Producer\bin\Release\netcoreapp2.1\Producer.pdb
+C:\Users\m.akbari\Source\Repos\WebApplication15\Producer\obj\Release\netcoreapp2.1\Producer.csprojAssemblyReference.cache
+C:\Users\m.akbari\Source\Repos\WebApplication15\Producer\obj\Release\netcoreapp2.1\Producer.csproj.CoreCompileInputs.cache
+C:\Users\m.akbari\Source\Repos\WebApplication15\Producer\obj\Release\netcoreapp2.1\Producer.AssemblyInfoInputs.cache
+C:\Users\m.akbari\Source\Repos\WebApplication15\Producer\obj\Release\netcoreapp2.1\Producer.AssemblyInfo.cs
+C:\Users\m.akbari\Source\Repos\WebApplication15\Producer\obj\Release\netcoreapp2.1\Producer.dll
+C:\Users\m.akbari\Source\Repos\WebApplication15\Producer\obj\Release\netcoreapp2.1\Producer.pdb

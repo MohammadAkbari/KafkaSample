@@ -1,0 +1,11 @@
+C:\Users\m.akbari\Source\Repos\WebApplication15\Consumer\bin\Debug\netcoreapp2.1\Consumer.deps.json
+C:\Users\m.akbari\Source\Repos\WebApplication15\Consumer\bin\Debug\netcoreapp2.1\Consumer.runtimeconfig.json
+C:\Users\m.akbari\Source\Repos\WebApplication15\Consumer\bin\Debug\netcoreapp2.1\Consumer.runtimeconfig.dev.json
+C:\Users\m.akbari\Source\Repos\WebApplication15\Consumer\bin\Debug\netcoreapp2.1\Consumer.dll
+C:\Users\m.akbari\Source\Repos\WebApplication15\Consumer\obj\Debug\netcoreapp2.1\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\m.akbari\Source\Repos\WebApplication15\Consumer\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfoInputs.cache
+C:\Users\m.akbari\Source\Repos\WebApplication15\Consumer\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfo.cs
+C:\Users\m.akbari\Source\Repos\WebApplication15\Consumer\bin\Debug\netcoreapp2.1\Consumer.pdb
+C:\Users\m.akbari\Source\Repos\WebApplication15\Consumer\obj\Debug\netcoreapp2.1\Consumer.csprojAssemblyReference.cache
+C:\Users\m.akbari\Source\Repos\WebApplication15\Consumer\obj\Debug\netcoreapp2.1\Consumer.dll
+C:\Users\m.akbari\Source\Repos\WebApplication15\Consumer\obj\Debug\netcoreapp2.1\Consumer.pdb
